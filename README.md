@@ -4,7 +4,7 @@
 
 ## 현재 제공 파일
 
-현재 기본 배포본은 ARM64 갤럭시 시험 기기용 **release 서명 사전 릴리스 APK**입니다. [최신 서명 APK 다운로드](https://github.com/GrayOM/ansimcare-downloads/releases/download/v0.1.0-autoenroll-signed-test.1/app-arm64-v8a-release.apk) 또는 [릴리스 안내 페이지](https://github.com/GrayOM/ansimcare-downloads/releases/tag/v0.1.0-autoenroll-signed-test.1)에서 파일을 받습니다. 앱은 환자 또는 보호자가 설치한 뒤 동의 절차를 완료하면 중앙 관제 등록을 요청하도록 설계되어 있습니다. 환자가 서버 주소, 기기 ID, 인증 토큰을 직접 입력하지 않습니다.
+현재 기본 배포본은 ARM64 갤럭시 시험 기기용 **release 서명 사전 릴리스 APK**입니다. [최신 서명 APK 다운로드](https://github.com/GrayOM/ansimcare-downloads/releases/download/v0.1.0-autoenroll-signed-test.2/app-arm64-v8a-release.apk) 또는 [릴리스 안내 페이지](https://github.com/GrayOM/ansimcare-downloads/releases/tag/v0.1.0-autoenroll-signed-test.2)에서 파일을 받습니다. 이 APK는 위치 동의와 공유 시작 직후 중앙 관제 자동 등록 요청을 전송하도록 수정됐습니다. 환자가 서버 주소, 기기 ID, 인증 토큰을 직접 입력하지 않습니다.
 
 > 이 파일은 release 키로 서명된 시험용 APK입니다. 실환자 운영 배포에는 사용하지 마십시오. release 서명은 debug APK보다 직접 배포 신뢰성을 높이지만, Google Play Protect 경고가 항상 사라진다는 보장은 없습니다. 중앙 관리자 승인과 시험 기기 1대의 전체 등록 흐름을 먼저 확인한 뒤 제한된 검증 용도로만 사용해야 합니다.
 
